@@ -1,0 +1,9 @@
+bin
+obj
+packages
+.vs
+Books\bin
+Books\obj
+Books.Test\bin
+Books.Test\obj
+TestResults
